@@ -42,4 +42,14 @@ Design a machine learning model to predict whether it will rain the next day in 
 1. Logistic Regression
 2. Random Forest
 3. KNN Algorithm 
-4. Decision Tree 
+4. Decision Tree
+
+## Results
+
+1. Best Model:
+-  Out of all above models Random forest Classifier gives the highest Accuracy of 91 % and F1-Score 91%.
+  
+2. Insights:
+-  Humidity and RainToday were the most influential features.
+-  Wind speed also played a significant role, especially at 9 AM.
+-  Cloud cover and atmospheric pressure had moderate predictive power
