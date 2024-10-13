@@ -18,3 +18,28 @@ Design a machine learning model to predict whether it will rain the next day in 
   
   The outcome of the model will help improve the accuracy of weather forecasting, supporting timely decision-making in agriculture, safety planning, and other daily activities
 
+## Dataset
+
+- Date: Observation date
+- Location: City/town where the weather is recorded
+- MinTemp: Minimum temperature of the day
+- MaxTemp: Maximum temperature of the day
+- Rainfall: Amount of rainfall (mm)
+- Humidity9am, Humidity3pm: Humidity levels in the morning and afternoon
+- WindSpeed9am, WindSpeed3pm: Wind speed at different times
+- RainToday: Whether it rained today (Yes/No)
+- RainTomorrow: Target variable, indicates whether it will rain the next day (Yes/No)
+
+## Project Workflow
+
+1. Exploratory Data Analysis (EDA)
+2. Data Preprocessing
+3. Model Building
+4. Evaluation Metrics
+
+## Models used
+
+1. Logistic Regression
+2. Random Forest
+3. KNN Algorithm 
+4. Decision Tree 
