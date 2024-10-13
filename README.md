@@ -1,4 +1,4 @@
-# Australia-Rainfall-Prediction-Model
+# Australia-Rainfall-Prediction
 
 ## Project Overview
 
