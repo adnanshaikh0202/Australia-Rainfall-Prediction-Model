@@ -18,7 +18,7 @@ Design a machine learning model to predict whether it will rain the next day in 
   
   The outcome of the model will help improve the accuracy of weather forecasting, supporting timely decision-making in agriculture, safety planning, and other daily activities
 
-## 
+## Dataset
 
 - Date: Observation date
 - Location: City/town where the weather is recorded
