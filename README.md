@@ -7,7 +7,7 @@ The goal is to improve weather forecasting accuracy, providing valuable insights
 
 ## Problem Statement
 
-Design a machine learning model to predict whether it will rain the next day in Australia. Using historical weather data, the model should accurately classify the target variable "RainTomorrow" (Yes/No) based on features such as:
+Design a machine learning model to predict whether it will rain the next day in Australia. Using historical weather data, the model should accurately classify the target variable "RainTomorrow" (Yes/No) based on features such as:  
 
 - Temperature
 - Humidity
