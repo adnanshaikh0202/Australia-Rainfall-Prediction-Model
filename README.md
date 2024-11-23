@@ -43,6 +43,9 @@ Design a machine learning model to predict whether it will rain the next day in 
 2. Random Forest
 3. KNN Algorithm 
 4. Decision Tree
+5. Ada boost
+6. XG Boost
+7. Bagging Classifier
 
 ## Results
 
